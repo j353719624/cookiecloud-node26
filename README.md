@@ -93,7 +93,3 @@ app/
 .dockerignore         排除 data/,避免把本地数据打进镜像
 ```
 
-## License
-
-`app.js` 等应用代码来自 [easychen/CookieCloud](https://github.com/easychen/CookieCloud),
-版权归原作者所有,遵循其原始许可。本仓库仅包含 Dockerfile 与构建说明。
