@@ -1,0 +1,11 @@
+# 本地数据（客户端同步上来的 cookie），绝不入库
+data/
+*.json.bak
+
+# 构建产物
+*.tar
+*.tar.gz
+
+# 编辑器/系统
+.DS_Store
+*.swp
